@@ -1,6 +1,5 @@
 
 
-20
 
 Claude Artifacts
 Day 8
